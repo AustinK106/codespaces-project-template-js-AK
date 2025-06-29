@@ -27115,7 +27115,7 @@ var _stylesCss = require("./styles.css");
     email: "austinkonneh24@gmail.com",
     gitHub: "microsoft",
     instagram: "microsoft",
-    linkedIn: "austin konneh",
+    linkedIn: "austin-konneh",
     medium: "",
     twitter: "microsoft",
     youTube: "Code"
